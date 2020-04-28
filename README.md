@@ -11,7 +11,7 @@ Global real-time COVID-19 data link: https://data.humdata.org/dataset/novel-coro
 
 The countries selected for cross-analysis and comparison = China & Canada
 
-The States selected for cross-analysis and comparsion - Hebei from China, Ontario from Canada
+The States selected for cross-analysis and comparsion - Hebei from China, Ontario from Canada.
 
 
 Summary: This project attempts to conduct analysis on the WHO dataset to produce predictive analysis applying different machine learning regression approaches such as decision trees, LSTM, and CNN regressor. The primary data has 91 entries, which consists of data of various countries with respect to dates along with confirmed cases, confirmed deaths, and recovered cases. The dataset has been divided into 70:30 in which 70 percent is used for training and validation, and 30 percent is used for testing. The coronavirus disease outbreak started in 2019, arising in Wuhan, China. The key objective is to exercise different artificial intelligence approaches, we ought to predict the confirmed cases, confirmed deaths, and recovered cases, and further, various visualization techniques have been used to deduce the meaningful inferences from the model's prediction and perform specific analytics on the results concluded. The prediction models such as LSTM and CNN are evaluated on the basis of several loss functions such as R2 score and Mean Squared Error. 
